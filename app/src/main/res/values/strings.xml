@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Release Date Maker</string>
+    <string name="game_release_dates">Game Release</string>
+    <string name="games">Games</string>
+    <string name="power">Power</string>
+    <string name="permission">Permission</string>
+    <string name="jan_01_2020">JAN 01 2020</string>
+    <string name="select_date">Select Date:</string>
+    <string name="back">Back</string>
+    <string name="search_game">Search Game</string>
+    <string name="check_connection" />
+    <string name="set_alarms">Set Alarms</string>
+    <string name="alarm_message">Alarm Message</string>
+    <string name="save">Save</string>
+    <string name="homewidget">homewidget</string>
+    <string name="event_message">Event Message</string>
+    <string name="back_on_a_page">back on a page</string>
+    <string name="forward_on_a_page">forward on a page</string>
+    <string name="go_back_to_last_screen_to_save_the_date">go back to last screen to save the date</string>
+    <string name="refresh_page">refresh page</string>
+    <string name="notification_message">Notification Message</string>
+    <string name="search_event">Search Event</string>
+</resources>
