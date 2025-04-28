@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.gamerelease2025"
+    namespace = "com.CamDru.gamerelease2025"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.gamerelease2025"
+        applicationId = "com.CamDru.gamerelease2025"
         minSdk = 24
         targetSdk = 35
         versionCode = 1
